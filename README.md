@@ -11,7 +11,7 @@ A full-stack classroom management web application that allows principals, teache
 - [Usage](#usage)
 - [Live Demo](#live-demo)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -55,7 +55,7 @@ A full-stack classroom management web application that allows principals, teache
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/abhimanyu0018/classroom.git
+    git clone https://github.com/AnushaGangapuram04/class-website.git
     cd classroom/server
     ```
 
@@ -107,6 +107,4 @@ Check out the live version of the app [here](https://classroom-fawn.vercel.app).
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
 
-## License
 
-This project is licensed under the MIT License.
